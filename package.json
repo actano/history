@@ -1,9 +1,5 @@
 {
-  "name": "history",
-  "private": true,
+  "name": "actano-history",
   "version": "0.0.2",
-  "dependencies": {
-    "express": "~3.3.4",
-    "hbs": "~2.3.0"
-  }
+  "repo": "actano/history"
 }
